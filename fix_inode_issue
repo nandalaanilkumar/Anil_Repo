@@ -1,0 +1,2 @@
+cd /var/spool/clientmqueue/
+ls | xargs rm -f 
